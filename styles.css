@@ -1,0 +1,52 @@
+header {
+    background-color: #00008B;
+    color: #FFFFFF;
+    margin-bottom: 2rem;
+    padding: 2rem 1rem;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    margin-bottom: 2rem;
+}
+
+h3 {
+    text-align: center;
+    color: #00008B;
+
+}
+
+.section {
+    background-color: #FFFFFF;
+    color: #ADD8E6;
+    font-size: 1.8rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 0;
+    text-align: left;
+}
+
+h4 {
+    text-align: center;
+    color: #FFA500;
+}
+
+video {
+    text-align: "center";
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h5 {
+    color: #FF0000;
+}
